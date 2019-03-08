@@ -1,7 +1,7 @@
 LoadRunnerSamples
 =================
 
-Sample Loadrunner Scripts used by Richard Bishop, Trust IV Ltd
+Sample Loadrunner Scripts used by Richard Bishop, Lloyds Banking Group
 Many of these scripts include snippets of code from the "great and the good" 
 in the performance testing world including, Wilson Mar, Stuart Moncrieff, 
 Scott Moore, Mark Sibley, John Howley, Mark Dowd and Floris Kraak.
@@ -79,6 +79,8 @@ TimeExclusion           - Sample script showing how a script can be deliberately
 UNIXTimeStampCalcs      - Sample script showing how to use the SplitString function to break UNIX timestamps into manageable sizes for calculations
 
 UserDefinedDataPoint    - Sample script showing how user defined data points can be saved in a script. (Requires char to float/double conversion)
+
+VTS                     - Folder containing two VTS demo scripts used in a Vivit demo 12/12/2017
 
 WriteToFile             - Sample script showing how LoadRunncan write output to an external file.
 
